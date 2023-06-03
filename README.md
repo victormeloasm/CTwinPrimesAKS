@@ -69,6 +69,3 @@ To run this program, you need:
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
-You can use this template as a starting point for your `README.md` file. Customize it as per your specific project requirements and provide detailed instructions for building and running the program. Additionally, include any limitations or possible improvements that you think would benefit the project.
